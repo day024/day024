@@ -1,6 +1,6 @@
 ###
 💗 Department of Data Science, Sejong University
-💗 study : img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+💗 study : img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a>&nbsp \n
 
 <!--
 **day024/day024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
