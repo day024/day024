@@ -1,5 +1,5 @@
 ###
-💗 21, Department of Data Science, Sejong University
+ 21, Department of Data Science, Sejong University
 
 <!--
 **day024/day024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
