@@ -1,6 +1,6 @@
 ###
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=flex&section=header&text=Welcome%20to%20%20day024%20's%20GitHub🍀&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=500&section=header&text=Welcome%20to%20%20day024%20's%20GitHub🍀&fontSize=40&animation=twinkling)
 
  
 <p align="center">
