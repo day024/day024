@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=300&section=header&text=Welcome%20to%20%20day024%20's%20GitHub🍀&fontSize=40&animation=twinkling)
 
 <p>
-  21, Department of Data Science, Sejong University
+  # 21, Department of Data Science, Sejong University
 </p>
 
 <p>
