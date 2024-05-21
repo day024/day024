@@ -13,6 +13,7 @@
 ## day024's log 👩‍💻 
 
 <div style="display:flex; flex-direction:row;">
+ 
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=day024)](https://velog.io/@day024) 
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=day024)](https://github.com/day024/velog-readme-stats)
