@@ -26,9 +26,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+
+**DATABASE**
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/></a>
 
-Development Tools 
+**Development Tools**
 <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/></a>
