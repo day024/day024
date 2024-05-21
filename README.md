@@ -4,20 +4,27 @@
 
  
 <p align="center">
- 21, Department of Data Science, Sejong University
- 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday024%2Fhit-counter&count_bg=%23D8ACF0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  21, Department of Data Science, Sejong University
+</p>
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday024%2Fhit-counter&count_bg=%23D8ACF0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /></a>
+</p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=day024&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day024&layout=compact" />
+</p>
 
 ## day024's log 👩‍💻 
 
 <div style="display:flex; flex-direction:row;">
  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=day024)](https://velog.io/@day024) 
+ <p align="center">
+   <a href="https://velog.io/@day024"><img src="https://velog-readme-stats.vercel.app/api/badge?name=day024" /></a>
+ </p>
  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=day024)](https://github.com/day024/velog-readme-stats)
+ <p align="center">
+   <a href="https://github.com/day024/velog-readme-stats"><img src="https://velog-readme-stats.vercel.app/api?name=day024" /></a>
+ </p>
 
 </div>
-
