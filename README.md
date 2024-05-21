@@ -4,7 +4,7 @@
 
 <p>
   
-  ## 21, Department of Data Science, Sejong University 
+  ## 👩‍💻
 
 </p>
 
