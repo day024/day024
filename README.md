@@ -13,10 +13,7 @@
 ## day024's log 👩‍💻 
 
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@day024">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=day024)](https://velog.io/@day024) 
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=day024)](https://github.com/day024/velog-readme-stats)
 
