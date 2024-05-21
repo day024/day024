@@ -15,7 +15,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day024&layout=compact" />
 </p>
 
-## day024's log 👩‍💻 
+<p align="center">
+
+ ## day024's log 👩‍💻  
+</p>
 
 <div style="display:flex; flex-direction:row;">
  
@@ -25,6 +28,6 @@
  
  <p align="center">
    <a href="https://github.com/day024/velog-readme-stats"><img src="https://velog-readme-stats.vercel.app/api?name=day024" /></a>
- </p>
+
 
 </div>
