@@ -15,7 +15,8 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day024&layout=compact" />
 
-  [![day024's GitHub stats](https://github-readme-stats.vercel.app/api?sername=day024&show_icons=true&theme=cobalt)](https://github.com/day024/github-readme-stats)
+  ![day024's GitHub stats](https://github-readme-stats.vercel.app/api username=day024&show_icons=true&theme=radical)
+  
 </p>
 
 <p>
