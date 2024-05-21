@@ -1,5 +1,6 @@
 ###
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&&height=300&section=header&text=Welcome%20to%20%20day024%20's%20GitHub🍀&fontSize=50&animation=twinkling)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=300&section=header&text=Welcome%20to%20%20day024%20's%20GitHub🍀&fontSize=40&animation=twinkling)
 
  21, Department of Data Science, Sejong University
 
