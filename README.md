@@ -17,8 +17,7 @@
         Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=day024)](https://github.com/day024/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=day024)](https://github.com/day024/velog-readme-stats)
 
 </div><br>
 
