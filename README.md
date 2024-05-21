@@ -12,6 +12,7 @@
 
 ## day024's log 👩‍💻 
 <div style="display:flex; flex-direction:row;">
+ 
     <a href="https://velog.io/@day024">
         <img src="https://img.shields.io/badge/
         Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
