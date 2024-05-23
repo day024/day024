@@ -52,7 +52,7 @@
  </p>
  
  <p>
-   <a href="https://github.com/day024/velog-readme-stats"><img src="https://velog-readme-stats.vercel.app/api?name=day024" /></a>
+   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=day024)](https://github.com/day024/velog-readme-stats)</a>
  </p>
 
 </div>
