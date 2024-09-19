@@ -42,10 +42,13 @@
  </p>
  
 <p>
-   <a href="https://github.com/day024/velog-readme-stats">
+   <a href="https://velog.io/@day024">
       <img src="https://velog-readme-stats.vercel.app/api?name=day024" alt="Velog's GitHub stats"/>
    </a>
+   <br/>
+   <a href="https://velog.io/@day024">View Latest Posts</a>
 </p>
+
 
 </div>
 
