@@ -13,18 +13,6 @@
 
 <p>
 
-## 🛠 Tech Stack 🛠
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
-
-**Development Tools**
-
-<img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
-</p>
-
-<p>
-
 ## day024's log 👩‍💻
 
 </p>
