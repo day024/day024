@@ -7,11 +7,6 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day024&layout=compact" />
-  
-</p>
-
-<p>
 
 ## day024's log 👩‍💻
 
