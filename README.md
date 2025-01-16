@@ -11,7 +11,7 @@ contact : day024@naver.com
 ## day024's log 👩‍💻
 
 </p>
-velog
+
 <div style="display: flex; flex-direction: row; justify-content: center;">
 
  <p>
