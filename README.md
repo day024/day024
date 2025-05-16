@@ -16,7 +16,7 @@
 → [바로가기](https://github.com/likelion-onetool)
 
 ### 🚫 BANner it! – 불법 현수막 탐지 AI 시스템  
-YOLOv8 + PaddleOCR + LLM 기반의 텍스트 추출 및 분류 시스템  
+YOLOv11-seg + PaddleOCR + LLM 기반의 텍스트 추출 및 분류 시스템  
 → [바로가기](https://github.com/FITIFITBANnerit)
 
 ---
