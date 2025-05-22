@@ -24,7 +24,7 @@ YOLOv11-seg + PaddleOCR + LLM 기반의 텍스트 추출 및 분류 시스템
 ## 🛠 Tech Stack 
 
 `Java` `Spring Boot` `Python`
-`MySQL` `AWS EC2/RDS` `OAuth 2.0` `GitHub Actions`  
+`MySQL` `AWS` `GitHub Actions`  
 
 ---
 
