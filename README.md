@@ -1,4 +1,4 @@
-# 🌿 Hi, I'm Dayoung Jeong 👩‍💻
+# 🌿 Hi, I'm  Jeong Dayoung 👩‍💻
 
 사람을 위한 기술을 고민합니다.
 
