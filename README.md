@@ -7,7 +7,6 @@
 기술은 사람을 더 사람답게 만드는 도구라고 믿고
 **기술을 통해 사람을 이해하고 연결하는 일**에 관심을 갖고 성장 중입니다.
 
----
 
 ## 💡 Projects
 
@@ -19,14 +18,12 @@
 YOLOv11-seg + PaddleOCR + LLM 기반의 텍스트 추출 및 분류 시스템  
 → [바로가기](https://github.com/FITIFITBANnerit)
 
----
 
 ## 🛠 Tech Stack 
 
 `Java` `Spring Boot` `Python`
 `MySQL` `AWS` `GitHub Actions`  
 
----
 
 ## ✍️ day024's Log
 
