@@ -18,7 +18,7 @@
 ### 🚫 BANner it! 
 [불법 현수막 탐지 AI 시스템](https://github.com/FITIFITBANnerit)
 
-YOLOv11-seg + PaddleOCR + LLM 기반의 텍스트 추출 및 분류 시스템  
+YOLO + OCR + LLM 기반의 텍스트 추출 및 분류 시스템  
 
 
 ## 🛠 Tech Stack 
