@@ -14,12 +14,12 @@
 ### 🏗️ OneTool 
 [건축 도면 유통 플랫폼](https://github.com/likelion-onetool)
 
-건축 업계 종사자를 위한 3D 도면 검색·거래·판매 서비스  
+- 건축 업계 종사자를 위한 3D 도면 검색·거래·판매 서비스  
 
 ### 🚫 BANner it! 
 [불법 현수막 탐지 AI 시스템](https://github.com/FITIFITBANnerit)
 
-YOLO + OCR + LLM 기반의 텍스트 추출 및 분류 시스템  
+- YOLO + OCR + LLM 기반의 텍스트 추출 및 분류 시스템  
 
 
 ## 🛠 Tech Stack 
